@@ -10,4 +10,5 @@ class inputInvalid:
     password = "fahmi12"
     textInvalidLogin = "Invalid credentials"
     textEmpty = "Required"
+    employeeInvalid = "Invalid"
     
